@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Dhakane</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
- - 🔭 I’m currently working on: AI-powered grievance tracker
+ - 🔭 I’m currently working on: **AI-powered grievance tracker**
 - 🌱 I’m currently learning **nextjs**
 
 - 📫 How to reach me **ypdhakane101@gmail.com**
