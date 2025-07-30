@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **nextjs**
 
 - 📫 How to reach me **ypdhakane101@gmail.com**
+- -💬 Ask me about web dev, clean architecture, or backend APIs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
