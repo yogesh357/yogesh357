@@ -50,7 +50,7 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 </p>
  
-
+---
 ### 📫 Connect with Me
 
 <p align="left">
