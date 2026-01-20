@@ -49,16 +49,7 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 </p>
-
----
-
-### ⭐ Featured Projects
-
-- 🧑🏻‍🚒 **RequestHub - AI-Powered Municipal Complaint Management System:** A system designed to efficiently track and manage civic grievances using Artificial Intelligence.
-- 🛒 **E-Commerce Platform (Next.js & Sanity):** A modern, high-performance e-commerce solution utilizing the latest Next.js features for speed and Sanity for flexible content management.
-- 🛍️ **Grocery Shopping Web Platform:** A comprehensive web application for online grocery ordering and management.
-
----
+ 
 
 ### 📫 Connect with Me
 
