@@ -69,10 +69,7 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
   <a href="https://twitter.com/yogesh_dha42469" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogesh_dha42469" height="35" width="45" />
   </a>
-  <a href="https://instagram.com/yogesh_dhakane_101" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogesh_dhakane_101" height="35" width="45" />
-  </a>
-  </p>
+   </p>
 
 - ✉️ **Email:** ypdhakane101@gmail.com
 - 🌐 **Portfolio:** *[Insert your portfolio link here]*
