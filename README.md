@@ -99,8 +99,7 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
       I'm a <b>Computer Engineering graduate</b> with a deep love for the MERN/Next.js stack. I build high-performance web applications with a focus on clean architecture and smooth user experiences.
       <br/><br/>
       <ul>
-        <li>🚀 <b>Next Generation:</b> Mastering <b>Next.js 15</b> Server Components.</li>
-        <li>🤖 <b>AI Integration:</b> Currently building an <b>AI-powered grievance tracker</b>.</li>
+        <li>🚀 <b>Next Generation:</b> Mastering <b>Next.js 15</b> Server Components.</li> 
         <li>🛠️ <b>Architectural Mindset:</b> Focusing on Scalability and TypeScript Safety.</li>
       </ul>
     </td>
@@ -131,7 +130,9 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yogesh-Dhakane01&theme=radical&no-frame=false&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yogesh357&theme=radical&margin-w=15)
+
+    <img src="https://github-readme-stats.vercel.app/api?username=yogesh357&show_icons=true&theme=buefy" alt="Yogesh's GitHub Stats" />
 
 <br/>
 
