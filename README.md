@@ -77,7 +77,8 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dhakane+Yogesh;Full-Stack+Developer;Next.js+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Dhakane+Yogesh;Full-Stack+Developer;Open+Source+Contributor)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20Digital%20Experiences&fontSize=40&animation=fadeIn" />
