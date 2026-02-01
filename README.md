@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhakane Yogesh Popat</h1>
 <p align="center">
-  <img src="![github-img](https://github.com/user-attachments/assets/029040ec-e744-47ad-b127-84a627551e93)
-" width="400" />
+  <img src="./public/download.gif" width="400" />
 </p>
 <h3 align="center">A Passionate Full-Stack Developer  </h3>
 <h3>Portfolio : https://yogeshdevs.vercel.app
