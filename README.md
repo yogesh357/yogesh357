@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Dhakane Yogesh Popat</h1>
-<p align="center">
+<p align="center"> 
   <img src="./public/download.gif" width="800" />
 </p>
 <h3 align="center">A Passionate Full-Stack Developer  </h3>
