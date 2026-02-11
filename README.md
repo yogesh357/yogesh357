@@ -85,7 +85,7 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
 </p>
 
 ### ⚡ Computer Engineering Graduate | Full-Stack Explorer
-[🌐 Portfolio](https://yogeshdevs.vercel.app) • [💼 LinkedIn](https://linkedin.com/in/yogesh-dhakane) • [🐦 Twitter](https://twitter.com/yogesh_dha42469)
+[🌐 Portfolio](https://yogeshworks.in) • [💼 LinkedIn](https://linkedin.com/in/yogesh-dhakane) • [🐦 Twitter](https://twitter.com/yogesh_dha42469)
 
 ---
 
