@@ -3,7 +3,7 @@
   <img src="./public/download.gif" width="800" />
 </p>
 <h3 align="center">A Passionate Full-Stack Developer  </h3>
-<h3>Portfolio : https://yogeshdevs.vercel.app
+<h3>Portfolio :https://yogeshworks.in
 </h3>
 ---
 
