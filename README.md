@@ -104,7 +104,7 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
       </ul>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Dhakane01&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh357&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
     </td>
   </tr>
 </table>
