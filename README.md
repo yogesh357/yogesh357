@@ -7,6 +7,7 @@
 </h3>
 ---
 
+
 ### 💡 About Me
 I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack Web Development. I thrive on building scalable, modern applications and constantly exploring new technologies in the MERN/Next.js ecosystem.
 
