@@ -138,8 +138,8 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yogesh-Dhakane01&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-Dhakane01&theme=vision-friendly-dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogesh357&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh357&theme=vision-friendly-dark" />
 
 </div>
 
