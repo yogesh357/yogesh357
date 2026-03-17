@@ -134,7 +134,7 @@ I'm a passionate **Computer Engineering graduate** with expertise in Full-Stack 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yogesh357&theme=radical&margin-w=15)
 
-    <img src="https://github-readme-stats.vercel.app/api?username=yogesh357&show_icons=true&theme=buefy" alt="Yogesh's GitHub Stats" />
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=yogesh357&show_icons=true&theme=buefy" alt="Yogesh's GitHub Stats" /> -->
 
 <br/>
 
