@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Dhakane+Yogesh;Full-Stack+Developer;Open+Source+Contributor)
@@ -27,7 +28,7 @@
       </ul>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitTribhuvan&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh357&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
     </td>
   </tr>
 </table>
@@ -53,12 +54,14 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbhijitTribhuvan&theme=radical&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yogesh357&theme=radical&margin-w=15)
+
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=yogesh357&show_icons=true&theme=buefy" alt="Yogesh's GitHub Stats" /> -->
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhijitTribhuvan&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitTribhuvan&theme=vision-friendly-dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogesh357&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh357&theme=vision-friendly-dark" />
 
 </div>
 
