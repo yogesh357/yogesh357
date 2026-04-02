@@ -3,7 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Dhakane+Yogesh;Full-Stack+Developer;Open+Source+Contributor)
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20Digital%20Experiences&fontSize=40&animation=fadeIn" />
 </p>
